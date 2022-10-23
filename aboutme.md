@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Figo. I am currently a final-year student majoring in Electrical Engineering at Telkom University. I have experience with Python, Javascript, C/C++, HTML/CSS.I have an interest in Machine learning, IoT, and UAVs. My experience handling several projects, especially in data, UAVs, and IoT.  
+My name is Figo. I am currently a final-year student majoring in Electrical Engineering at Telkom University. I have experience with Python, Javascript, C/C++, HTML/CSS. I have interests in Machine learning, IoT, and UAVs. My experience handling several projects, especially in data, UAVs, and IoT.  
 
 
 ## 🌐 Socials:
@@ -10,10 +10,7 @@ My name is Figo. I am currently a final-year student majoring in Electrical Engi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=figaz123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=figaz123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=figaz123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=figaz123&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=figaz123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=figaz123&icon=0&color=0)](https://visitcount.itsvg.in)
