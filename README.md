@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Figo Azzam De Fitrah. I have experiences with Python, Javascript, C/C++, HTML/CSS. My experience handling several projects, especially in data, UAVs, and IoT. 
+My name is Figo Azzam De Fitrah, you can call me Figo or figaz123. I have experiences with Python, Javascript, C/C++, HTML/CSS. My experience handling several projects, especially in data, UAVs, and IoT. 
 
 Some projects i have done.
 - [Predict Crop using Logistic Regression](https://github.com/figaz123/deploy-crop-predict-spada)
