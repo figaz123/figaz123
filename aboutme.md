@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Figo. I am currently a final-year student majoring in Electrical Engineering at Telkom University. I have experience with Python, Javascript, C/C++, HTML/CSS.<br>I have an interest in Machine learning, IoT, and UAVs. My experience handling several projects, especially in data, UAVs, and IoT.  
+My name is Figo. I am currently a final-year student majoring in Electrical Engineering at Telkom University. I have experience with Python, Javascript, C/C++, HTML/CSS.I have an interest in Machine learning, IoT, and UAVs. My experience handling several projects, especially in data, UAVs, and IoT.  
 
 
 ## 🌐 Socials:
