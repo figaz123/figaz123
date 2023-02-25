@@ -2,7 +2,7 @@
 My name is Figo Azzam De Fitrah, you can call me Figo or figaz123. I have experiences with Python, Javascript, C/C++, HTML/CSS. I have experiences handling several projects, especially in data, UAVs, and IoT. 
 
 Some projects i have done.
-- [Predict Crop using Logistic Regression](https://github.com/figaz123/deploy-crop-predict-spada)
+- [Crops recommender System](https://github.com/figaz123/deploy-crop-predict-spada)
 - [Controlling UAV with Dronekit](https://github.com/figaz123/dronekit_console_control)
 - [IoT Projects using Antares as IoT platform and NodeMCU Lolin v3](https://github.com/figaz123/LoLin-MQTT-IoT-with-Antares)
 - [IoT projects using Antares as IoT platform and ESP32](https://github.com/figaz123/tubesppi)
