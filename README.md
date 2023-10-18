@@ -10,7 +10,6 @@ Some projects i have done.
 - [Get UAV coordinate data using Dronekit API and Raspberry Pi](https://github.com/figaz123/mavlink_raspberrypi)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=figaz123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=figaz123&layout=compact&theme=codeSTACKr)](https://github.com/figaz123/github-readme-stats)
 
 ## 🌐 Socials:
